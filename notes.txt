@@ -1,0 +1,5 @@
+go-server: Build A Simple Web Server With Golang
+How to start: 
+    - cd to go-server: go mod init go-server
+    - go build
+    - go run main.go
