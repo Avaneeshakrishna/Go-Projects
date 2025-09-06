@@ -1,5 +1,14 @@
+Project 1:
 go-server: Build A Simple Web Server With Golang
 How to start: 
     - cd to go-server: go mod init go-server
     - go build
     - go run main.go
+
+Project 2: Build A CRUD API With Golang and TEST CRUD operations with Postman
+    - Initialize a Go module using go mod init go-movies-crud.
+    - Install the Gorilla Mux router with go get github.com/gorilla/mux.
+    - Write Go code to implement CRUD (Create, Read, Update, Delete) operations for your API.
+    - Build the project using go build.
+    - Run the server with go run main.go.
+    - Use Postman to test each CRUD endpoint (create, read, update, delete) to ensure your API works as expected.
